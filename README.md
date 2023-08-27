@@ -1,1 +1,1 @@
-# arcitectures
+# architectures
